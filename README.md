@@ -76,17 +76,3 @@ Change logo:
 CTFd/themes/pixo/static/img/logo.png
 ```
 
----
-
-# Tech Stack
-
-- CTFd
-- Docker
-- MariaDB
-- Redis
-
----
-
-# Author
-
-Hikmal-source
